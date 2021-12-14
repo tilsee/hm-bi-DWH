@@ -1,3 +1,4 @@
 # Jupyter Notebook
 .ipynb_checkpoints
 conf.yaml
+__pycache__
